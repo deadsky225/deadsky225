@@ -23,4 +23,3 @@ hello i'm _Rauno_ i'm new to programming and to coding and im learning bit by bi
 -->
 <img width="260" height="262" alt="scout-with-pan-scout-tf2-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/7268035f-aae5-4198-994f-f520f1b7297f" />
 
-<span style="font-size: 7px">КАЗАХСТАН УГРОЖАЕТ  НАМ БОМБАРДИРОВКОЙ</span>

@@ -1,9 +1,10 @@
-## Hi there 👋
+# Rauno
+hello i'm _Rauno_ i'm new to programming and to coding and im learning bit by bit. I'm Estonian. Currently living in Helsinki, Finland.
+
+## about me 
+
 
 <!--
-**deadsky225/deadsky225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="260" height="262" alt="scout-with-pan-scout-tf2-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/7268035f-aae5-4198-994f-f520f1b7297f" />

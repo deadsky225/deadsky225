@@ -2,9 +2,15 @@
 hello i'm _Rauno_ i'm new to programming and to coding and im learning bit by bit. I'm Estonian. Currently living in Helsinki, Finland.
 
 ## about me 
+ i am doing work training at digitalents academy hosted by Stadin AO. Here you can find works that i've done based on open material (Challenges, YouTube tutorials, etc...) So far i've learned HTML and CSS and JavaScript. I am still learning new things and i do stuff somewhat randomly soo... yeah don't take me seriously.
 
+<img width="15" height="15" alt="icon-1" src="https://github.com/user-attachments/assets/0aa915fa-daab-40f0-9cac-d5ee6cfedc08" /> i'm currently working on "JavaScript Tutorial Full Course" video by SuperSimpleDev
 
-<!--
+<img width="15" height="15" alt="icon-1" src="https://github.com/user-attachments/assets/0aa915fa-daab-40f0-9cac-d5ee6cfedc08" /> I’m currently learning JavaScript (im still bad at it)
+
+<img width="15" height="15" alt="icon-1" src="https://github.com/user-attachments/assets/0aa915fa-daab-40f0-9cac-d5ee6cfedc08" /> Fun Fact i like ice tea :D
+<!--![Uploading icon-1.png…]()
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
